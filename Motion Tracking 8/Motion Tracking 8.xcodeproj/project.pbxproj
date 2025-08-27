@@ -1,0 +1,681 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1FB4C4662D41CA4A008C55B8 /* Motion Tracking 8 Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 1FB4C4652D41CA4A008C55B8 /* Motion Tracking 8 Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1FB4C4672D41CA4A008C55B8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1FB4C4592D41CA4A008C55B8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1FB4C4642D41CA4A008C55B8;
+			remoteInfo = "Motion Tracking 8 Watch App";
+		};
+		1FB4C4782D41CA4C008C55B8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1FB4C4592D41CA4A008C55B8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1FB4C4642D41CA4A008C55B8;
+			remoteInfo = "Motion Tracking 8 Watch App";
+		};
+		1FB4C4822D41CA4C008C55B8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1FB4C4592D41CA4A008C55B8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1FB4C4642D41CA4A008C55B8;
+			remoteInfo = "Motion Tracking 8 Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1FB4C48E2D41CA4C008C55B8 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				1FB4C4662D41CA4A008C55B8 /* Motion Tracking 8 Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1FB4C45F2D41CA4A008C55B8 /* Motion Tracking 8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Motion Tracking 8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FB4C4652D41CA4A008C55B8 /* Motion Tracking 8 Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Motion Tracking 8 Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FB4C4772D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Motion Tracking 8 Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FB4C4812D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Motion Tracking 8 Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		1FB4C4692D41CA4A008C55B8 /* Motion Tracking 8 Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Motion Tracking 8 Watch App";
+			sourceTree = "<group>";
+		};
+		1FB4C47A2D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Motion Tracking 8 Watch AppTests";
+			sourceTree = "<group>";
+		};
+		1FB4C4842D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Motion Tracking 8 Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1FB4C4622D41CA4A008C55B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C4742D41CA4C008C55B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C47E2D41CA4C008C55B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1FB4C4582D41CA4A008C55B8 = {
+			isa = PBXGroup;
+			children = (
+				1FB4C4692D41CA4A008C55B8 /* Motion Tracking 8 Watch App */,
+				1FB4C47A2D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests */,
+				1FB4C4842D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests */,
+				1FB4C4602D41CA4A008C55B8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1FB4C4602D41CA4A008C55B8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1FB4C45F2D41CA4A008C55B8 /* Motion Tracking 8.app */,
+				1FB4C4652D41CA4A008C55B8 /* Motion Tracking 8 Watch App.app */,
+				1FB4C4772D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests.xctest */,
+				1FB4C4812D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1FB4C45E2D41CA4A008C55B8 /* Motion Tracking 8 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FB4C48F2D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8" */;
+			buildPhases = (
+				1FB4C45D2D41CA4A008C55B8 /* Resources */,
+				1FB4C48E2D41CA4C008C55B8 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1FB4C4682D41CA4A008C55B8 /* PBXTargetDependency */,
+			);
+			name = "Motion Tracking 8";
+			packageProductDependencies = (
+			);
+			productName = "Motion Tracking 8";
+			productReference = 1FB4C45F2D41CA4A008C55B8 /* Motion Tracking 8.app */;
+			productType = "com.apple.product-type.application.watchapp2-container";
+		};
+		1FB4C4642D41CA4A008C55B8 /* Motion Tracking 8 Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FB4C48B2D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8 Watch App" */;
+			buildPhases = (
+				1FB4C4612D41CA4A008C55B8 /* Sources */,
+				1FB4C4622D41CA4A008C55B8 /* Frameworks */,
+				1FB4C4632D41CA4A008C55B8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				1FB4C4692D41CA4A008C55B8 /* Motion Tracking 8 Watch App */,
+			);
+			name = "Motion Tracking 8 Watch App";
+			packageProductDependencies = (
+			);
+			productName = "Motion Tracking 8 Watch App";
+			productReference = 1FB4C4652D41CA4A008C55B8 /* Motion Tracking 8 Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1FB4C4762D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FB4C4922D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8 Watch AppTests" */;
+			buildPhases = (
+				1FB4C4732D41CA4C008C55B8 /* Sources */,
+				1FB4C4742D41CA4C008C55B8 /* Frameworks */,
+				1FB4C4752D41CA4C008C55B8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1FB4C4792D41CA4C008C55B8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				1FB4C47A2D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests */,
+			);
+			name = "Motion Tracking 8 Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "Motion Tracking 8 Watch AppTests";
+			productReference = 1FB4C4772D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		1FB4C4802D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FB4C4952D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8 Watch AppUITests" */;
+			buildPhases = (
+				1FB4C47D2D41CA4C008C55B8 /* Sources */,
+				1FB4C47E2D41CA4C008C55B8 /* Frameworks */,
+				1FB4C47F2D41CA4C008C55B8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1FB4C4832D41CA4C008C55B8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				1FB4C4842D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests */,
+			);
+			name = "Motion Tracking 8 Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "Motion Tracking 8 Watch AppUITests";
+			productReference = 1FB4C4812D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1FB4C4592D41CA4A008C55B8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					1FB4C45E2D41CA4A008C55B8 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					1FB4C4642D41CA4A008C55B8 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					1FB4C4762D41CA4C008C55B8 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 1FB4C4642D41CA4A008C55B8;
+					};
+					1FB4C4802D41CA4C008C55B8 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 1FB4C4642D41CA4A008C55B8;
+					};
+				};
+			};
+			buildConfigurationList = 1FB4C45C2D41CA4A008C55B8 /* Build configuration list for PBXProject "Motion Tracking 8" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1FB4C4582D41CA4A008C55B8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 1FB4C4602D41CA4A008C55B8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1FB4C45E2D41CA4A008C55B8 /* Motion Tracking 8 */,
+				1FB4C4642D41CA4A008C55B8 /* Motion Tracking 8 Watch App */,
+				1FB4C4762D41CA4C008C55B8 /* Motion Tracking 8 Watch AppTests */,
+				1FB4C4802D41CA4C008C55B8 /* Motion Tracking 8 Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1FB4C45D2D41CA4A008C55B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C4632D41CA4A008C55B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C4752D41CA4C008C55B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C47F2D41CA4C008C55B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1FB4C4612D41CA4A008C55B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C4732D41CA4C008C55B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB4C47D2D41CA4C008C55B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1FB4C4682D41CA4A008C55B8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1FB4C4642D41CA4A008C55B8 /* Motion Tracking 8 Watch App */;
+			targetProxy = 1FB4C4672D41CA4A008C55B8 /* PBXContainerItemProxy */;
+		};
+		1FB4C4792D41CA4C008C55B8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1FB4C4642D41CA4A008C55B8 /* Motion Tracking 8 Watch App */;
+			targetProxy = 1FB4C4782D41CA4C008C55B8 /* PBXContainerItemProxy */;
+		};
+		1FB4C4832D41CA4C008C55B8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1FB4C4642D41CA4A008C55B8 /* Motion Tracking 8 Watch App */;
+			targetProxy = 1FB4C4822D41CA4C008C55B8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1FB4C4892D41CA4C008C55B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1FB4C48A2D41CA4C008C55B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		1FB4C48C2D41CA4C008C55B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Motion Tracking 8 Watch App/Motion Tracking 8 Watch App.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Motion Tracking 8 Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Motion-Tracking-8-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Motion Tracking 8";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app will use heart rate and export it after";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app will use heart rate and export it after";
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app will use movement";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.5;
+			};
+			name = Debug;
+		};
+		1FB4C48D2D41CA4C008C55B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Motion Tracking 8 Watch App/Motion Tracking 8 Watch App.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Motion Tracking 8 Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Motion-Tracking-8-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Motion Tracking 8";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app will use heart rate and export it after";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app will use heart rate and export it after";
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app will use movement";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 10.5;
+			};
+			name = Release;
+		};
+		1FB4C4902D41CA4C008C55B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				INFOPLIST_KEY_CFBundleDisplayName = "Motion Tracking 8";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		1FB4C4912D41CA4C008C55B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				INFOPLIST_KEY_CFBundleDisplayName = "Motion Tracking 8";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1FB4C4932D41CA4C008C55B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Motion Tracking 8 Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Motion Tracking 8 Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		1FB4C4942D41CA4C008C55B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Motion Tracking 8 Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Motion Tracking 8 Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+		1FB4C4962D41CA4C008C55B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "Motion Tracking 8 Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		1FB4C4972D41CA4C008C55B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74UJF5HM7S;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Durrrrr.Motion-Tracking-8-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "Motion Tracking 8 Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1FB4C45C2D41CA4A008C55B8 /* Build configuration list for PBXProject "Motion Tracking 8" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FB4C4892D41CA4C008C55B8 /* Debug */,
+				1FB4C48A2D41CA4C008C55B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FB4C48B2D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8 Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FB4C48C2D41CA4C008C55B8 /* Debug */,
+				1FB4C48D2D41CA4C008C55B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FB4C48F2D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FB4C4902D41CA4C008C55B8 /* Debug */,
+				1FB4C4912D41CA4C008C55B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FB4C4922D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8 Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FB4C4932D41CA4C008C55B8 /* Debug */,
+				1FB4C4942D41CA4C008C55B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FB4C4952D41CA4C008C55B8 /* Build configuration list for PBXNativeTarget "Motion Tracking 8 Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FB4C4962D41CA4C008C55B8 /* Debug */,
+				1FB4C4972D41CA4C008C55B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1FB4C4592D41CA4A008C55B8 /* Project object */;
+}
